@@ -4,6 +4,8 @@ I'm currently working on inventory control project on Nue framework.
 
 [owl](https://github.com/logistor/logistor/assets/47534617/bfeef905-732b-46f1-b887-9123f7741060)
 
+[owl](https://github.com/logistor/logistor/assets/47534617/bfeef905-732b-46f1-b887-9123f7741060)
+
 
 <!--
 **logistor/logistor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
